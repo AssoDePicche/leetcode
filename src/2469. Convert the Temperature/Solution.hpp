@@ -12,4 +12,4 @@ public:
   std::vector<double> convertTemperature(double celsius);
 };
 
-#endif SOLUTION_H_
+#endif
